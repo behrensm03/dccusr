@@ -84,7 +84,7 @@ body {
 
 #top {
     height: 100%;
-    background-image: url(../../images/other/New_Background.jpg);
+    background-image: url("../images/other/New_Background.jpg");
     background-repeat: no-repeat;
     background-size: cover;
 }
